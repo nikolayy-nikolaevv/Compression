@@ -1,4 +1,4 @@
-This is a program showing a way of compressing data.
+This is a program that shows a way of compressing data.
 
 Example: 
 Input: aaaabbbcccccdee
